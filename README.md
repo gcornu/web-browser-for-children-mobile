@@ -1,6 +1,6 @@
-web-browser-for-children
+web-browser-for-children-mobile
 ========================
 
-Mozilla student project realised by students of the Ecole Centrale de Lyon
+This project is a fork of the web-browser-for-children project. It intends to create a version for Firefox Mobile of this addon.
 
 This project uses a blacklist server that can be found here: https://github.com/gcornu/ffc-blacklist-server
